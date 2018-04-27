@@ -1,0 +1,1 @@
+This folder contains all the output of various processes that would have been displayed on the console
