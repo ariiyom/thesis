@@ -10,3 +10,4 @@ Note: After all the material has been downloaded, do the following:
 
 - move the PoC directory to /var/www/html
 - move the directories (BashScripts, Dummy, PythonScripts, UsefulOutput) to /root
+- make sure the interface connected to the internal network is eth1 (NB: can use eth0 but will have to change all parts of the code that use eth1 to eth0)
