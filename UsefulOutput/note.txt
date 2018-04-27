@@ -1,0 +1,1 @@
+This folder contains all the relevant intermediate results stored in text or XML files 
